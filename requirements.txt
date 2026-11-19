@@ -1,0 +1,4 @@
+# Use a prebuilt PyArrow wheel on Streamlit Community Cloud.
+--only-binary=pyarrow
+streamlit==1.56.0
+pyarrow==23.0.1
